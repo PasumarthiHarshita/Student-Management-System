@@ -1,7 +1,29 @@
 # Student Management System
-Technologies: Java, MySQL, JDBC
 
-1. Run student_db.sql in MySQL Workbench.
-2. Update PASSWORD in DBConnection.java.
-3. Add mysql-connector-j jar to your project.
-4. Compile and run Main.java.
+## Overview
+A console-based Student Management System developed using Java, MySQL, and JDBC for managing student records.
+
+## Features
+- Add Student Records
+- JDBC Database Connectivity
+- MySQL Integration
+- Object-Oriented Programming
+
+## Tech Stack
+- Java
+- JDBC
+- MySQL
+- SQL
+
+## Tools Used
+- VS Code
+- MySQL Workbench
+- Git
+- GitHub
+
+## Future Enhancements
+- View Student Records
+- Update Student Details
+- Delete Student
+- Search Student
+- Spring Boot REST API
